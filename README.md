@@ -59,5 +59,6 @@
 ## MEFST, Software Engineer
 
 > 2020 - 2021
+
 *Fullstack business application project for laboratory research processes management*
 

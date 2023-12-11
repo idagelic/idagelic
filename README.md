@@ -1,5 +1,4 @@
-# Software Engineer @ Daytona.io
-<br/>
+# Software Engineer @ [Daytona](https://daytona.io) 💪
 
 ## Daytona, Software Engineer
 

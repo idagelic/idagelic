@@ -3,6 +3,7 @@
 **Daytona, Software Engineer**
 
 > Apr 2023 - Present
+
 *Engineering new software using state-of-the-art tools to create a development environment management platform*
 
 

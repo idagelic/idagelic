@@ -1,5 +1,5 @@
 # Software Engineer @ Daytona.io
-<br/><br/>
+<br/>
 ## Daytona, Software Engineer
 
 > Apr 2023 - Present
